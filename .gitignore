@@ -38,3 +38,6 @@
 
 # Composer PHAR
 /composer.phar
+/composer.lock
+
+/bower_components
